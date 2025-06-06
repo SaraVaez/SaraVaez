@@ -6,7 +6,9 @@
 💼 Experience:  
 - 🚢 **Seaspan ULC** – Shipbuilding & Maritime  
 - 💹 **Seeking Alpha** – Financial Research & Investment  
-- 💻 **Dotin** – Financial Software Development  
+- 💻 **Dotin** – Financial Software Development
+
+
 📍 Based in Canada  
 
 ## 💼 Projects

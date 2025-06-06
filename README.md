@@ -2,6 +2,7 @@
 
 🎓 Master’s in Economics (Illinois State University, IL, USA)  
 📊 Finance, Data Science, and Machine Learning Enthusiast 
+
 💼 Experience:  
 - 🚢 **Seaspan ULC** – Shipbuilding & Maritime  
 - 💹 **Seeking Alpha** – Financial Research & Investment  

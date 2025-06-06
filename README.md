@@ -3,8 +3,8 @@
 🎓 Master’s in Economics (Illinois State University, IL, USA)  
 📊 Finance, Data Science, and Machine Learning Enthusiast 
 💼 Experience:  
-- <img src="https://upload.wikimedia.org/wikipedia/en/f/f9/Seaspan_Logo.png" alt="Seaspan" height="20"/> **Seaspan ULC** – Shipbuilding & Maritime  
-- <img src="https://companieslogo.com/img/orig/SA-3b2d38a4.png?t=1633518989" alt="Seeking Alpha" height="20"/> **Seeking Alpha** – Financial Research & Investment  
+- 🚢 **Seaspan ULC** – Shipbuilding & Maritime  
+- 💹 **Seeking Alpha** – Financial Research & Investment  
 - 💻 **Dotin** – Financial Software Development  
 📍 Based in Canada  
 

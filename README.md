@@ -1,7 +1,11 @@
 # 👋 Hi, I’m Sara Vaez
 
 🎓 Master’s in Economics (Illinois State University, IL, USA)  
-📊 Finance, Data Science, and Machine Learning Enthusiast  
+📊 Finance, Data Science, and Machine Learning Enthusiast 
+💼 Experience:  
+- ⚓ **Seaspan ULC** – Shipbuilding & Maritime  
+- 💹 **Seeking Alpha** – Financial Research & Investment  
+- 💻 **Dotin** – Financial Software Development 
 📍 Based in Canada  
 
 ## 💼 Projects

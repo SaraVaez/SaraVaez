@@ -26,7 +26,7 @@
 
 ## 📫 Contact
 
-- 💼 [LinkedIn] (www.linkedin.com/in/saravaez)
+- 💼 (www.linkedin.com/in/saravaez)
 - 📧 sara.vaez@seaspan.com
 - 📧 ssaravaez@gmail.com
 

@@ -17,7 +17,9 @@
   ML model to predict taxi tipping behavior, fare rate prediction and assist drivers with real-time alerts.
 
 - 🏦 [Loan Default Prediction](https://github.com/SaraVaez/Loan-Default-Prediction)  
-  Built a classification model to assess credit risk and identify high-default probability borrowers.
+ Built a classification model to assess credit risk and identify high-default probability borrowers.
+- 🏦 Customer Churn Prediction
+  Used machine learning techniques to predict customer churn based on behavioral and demographic data. 
 
 ## 🧰 Skills
 

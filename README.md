@@ -18,7 +18,7 @@
 
 - 🏦 [Loan Default Prediction](https://github.com/SaraVaez/Loan-Default-Prediction)  
  Built a classification model to assess credit risk and identify high-default probability borrowers.
-- 🏦 Customer Churn Prediction
+- 🏦 [Customer Churn Prediction] (https://github.com/SaraVaez/Customer-Churn-Prediction)
   Used machine learning techniques to predict customer churn based on behavioral and demographic data. 
 
 ## 🧰 Skills

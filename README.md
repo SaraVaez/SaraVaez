@@ -44,7 +44,7 @@ Currently working in Finance at Seaspan ULC (Shipbuilding & Maritime), where I a
 ### NLP & Transformers
 | Project | Description | Key Methods |
 |---------|-------------|-------------|
-| | [Transformer From Scratch](https://github.com/SaraVaez/Transformer-From-Scratch) | Educational implementation of Transformer architecture from "Attention Is All You Need" with step-by-step tasks | PyTorch, Multi-Head Attention, Positional Encoding, Encoder-Decoder || | |
+| [Transformer From Scratch](https://github.com/SaraVaez/Transformer-From-Scratch) | Educational implementation of Transformer architecture from "Attention Is All You Need" with step-by-step tasks | PyTorch, Multi-Head Attention, Positional Encoding, Encoder-Decoder |
 
 ---
 

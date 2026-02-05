@@ -22,41 +22,58 @@ Currently working in Finance at Seaspan ULC (Shipbuilding & Maritime), where I a
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Supervised Learning
-| Project | Description | Key Methods |
-|---------|-------------|-------------|
-| [Loan Default Prediction](https://github.com/SaraVaez/Loan-Default-Prediction) | Classification model to assess credit risk and identify high-default probability borrowers | Logistic Regression, Random Forest, Target Encoding, Class Imbalance Handling |
-| [Customer Churn Prediction](https://github.com/SaraVaez/Customer-Churn-Prediction) | Predict customer churn using behavioral and demographic data to enable proactive retention | Decision Tree, Random Forest, XGBoost |
-| [NYC Taxi Analytics](https://github.com/SaraVaez/NYC-Taxi-Analytics) | Predict taxi tipping behavior and fare patterns using NYC TLC trip data | Random Forest, XGBoost, GridSearchCV, Hypothesis Testing |
+### 🧠 Deep Learning & Neural Networks
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**CNN Image Recognition**](https://github.com/SaraVaez/mnist-cnn-image-recognition) | Convolutional Neural Network achieving 99%+ accuracy on MNIST handwritten digit recognition | TensorFlow, Keras, CNN, Computer Vision |
+| [**MNIST Regularization**](https://github.com/SaraVaez/mnist-regularization-techniques) | Comprehensive analysis of dropout, batch normalization, and L2 regularization to prevent overfitting | TensorFlow, Keras, Regularization |
+| [**Deep Neural Network**](https://github.com/SaraVaez/mnist-deep-neural-network) | Multi-layer perceptron for digit classification with 98%+ accuracy | TensorFlow, Keras, Deep Learning |
+
+### 📈 Time Series & Financial Forecasting
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**Bitcoin Price Prediction**](https://github.com/SaraVaez/bitcoin-price-prediction-rnn) | LSTM and GRU models for cryptocurrency price forecasting using sequential pattern recognition | TensorFlow, LSTM, GRU, Time Series |
+| [**Stock Price Prediction (ET)**](https://github.com/SaraVaez/stock-price-prediction-rnn) | Bidirectional RNN for Energy Transfer stock forecasting with temporal analysis | TensorFlow, Bidirectional RNN, Financial Analysis |
+
+### 🎮 Reinforcement Learning
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**Frozen Lake RL**](https://github.com/SaraVaez/frozen-lake-reinforcement-learning) | Q-learning and value iteration implementation for optimal policy learning | Gymnasium, Value Iteration, Q-Learning |
+
+### 🤖 Transformers & NLP
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**Transformer from Scratch**](https://github.com/SaraVaez/Transformer-From-Scratch) | Educational implementation of Transformer architecture with multi-head attention | PyTorch, Attention Mechanisms, NLP |
+
+### 📊 Supervised Learning & Predictive Analytics
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**Loan Default Prediction**](https://github.com/SaraVaez/Loan-Default-Prediction) | Credit risk assessment model to identify high-default probability borrowers | XGBoost, Random Forest, Classification |
+| [**Customer Churn Prediction**](https://github.com/SaraVaez/Customer-Churn-Prediction) | Machine learning model predicting customer churn from behavioral patterns | Decision Trees, Random Forest, XGBoost |
+| [**NYC Taxi Analytics**](https://github.com/SaraVaez/NYC-Taxi-Analytics) | Predictive modeling for taxi tipping behavior and fare optimization | Scikit-learn, EDA, Regression |
 
 ### Unsupervised Learning
 | Project | Description | Key Methods |
 |---------|-------------|-------------|
 | *Coming soon* | | |
 
-### Deep Learning & Neural Networks
-| Project | Description | Key Methods |
-|---------|-------------|-------------|
-| * || | |
-
-### NLP & Transformers
-| Project | Description | Key Methods |
-|---------|-------------|-------------|
-| [Transformer From Scratch](https://github.com/SaraVaez/Transformer-From-Scratch) | Educational implementation of Transformer architecture from "Attention Is All You Need" with step-by-step tasks | PyTorch, Multi-Head Attention, Positional Encoding, Encoder-Decoder |
 
 ---
 
-## Technical Toolkit
+## 🛠️ Technical Skills
 
-**Languages:** Python, SQL
-
-**ML & Deep Learning:** scikit-learn, XGBoost, TensorFlow, Keras, PyTorch
-
-**Data & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI
-
-**Core Skills:** Feature Engineering, Model Evaluation, Hyperparameter Tuning, EDA, Statistical Analysis
+**Deep Learning**: TensorFlow, Keras, PyTorch | CNN, RNN, LSTM, GRU, Transformers  
+**Machine Learning**: Scikit-learn, XGBoost, Random Forest, Gradient Boosting  
+**Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter  
+**Specializations**: Time Series Forecasting, Computer Vision, NLP, Reinforcement Learning, Credit Risk Modeling  
+**Tools**: Python, SQL, Git, Tableau, Power BI
 
 ---
 
